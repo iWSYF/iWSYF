@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wail, also you can call me WSYF
+- 👋 Hi, I'm Wail. Also, you can call me WSYF
 - 👀 I’m interested in app development and data analysis
 - 🌱 I’m currently learning DBMS
 - 📫 How to reach me wsyf.96@hotmail.com
