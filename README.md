@@ -1,4 +1,0 @@
-- 👋 Hi, I'm Wail. Also, you can call me WSYF
-- 👀 I’m interested in app development and data analysis
-- 📫 How to reach me wsyf.96@hotmail.com
-- ⚡ Fun fact: It’s all about 0’s and 1’s
